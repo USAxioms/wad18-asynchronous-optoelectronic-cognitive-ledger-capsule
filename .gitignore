@@ -1,0 +1,36 @@
+# EDA & Simulation Outputs
+obj_dir/
+*.vcd
+*.log
+*.jou
+*.pb
+*.wdb
+*.key
+*.om
+xsim.dir/
+*.sim
+*.cache
+*.hw
+*.runs
+*.ip_user_files
+
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+env/
+venv/
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary Archives & Build Artifacts (Keep source files tracked)
+*.zip
+!1.0y18_asc_capsule_v1.0.0.zip
